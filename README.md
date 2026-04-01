@@ -45,6 +45,7 @@
 
 ## Output
 
+<img width="1003" height="776" alt="image" src="https://github.com/user-attachments/assets/1a267ce0-6d87-4b57-975c-d39c95e5a623" />
 
 ### Name:Lekshmeendhra S
 ### Register Number: 212225040198
